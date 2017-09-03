@@ -1,0 +1,3 @@
+# texto 
+crear repositorio >> texto.txt
+
